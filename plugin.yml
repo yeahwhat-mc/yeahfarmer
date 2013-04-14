@@ -1,0 +1,12 @@
+name: yeahFarmer
+main: mn.frd.yeahFarmer.farmer
+version: 1.0
+website: http://frd.mn
+author: frdmn
+description: >
+            frdmn's Farmer bot plugin
+commands: 
+  farmer:
+    description: Rent the farmer bot | Example /farmer 10 (in minutes)
+    usage: /<command>
+    permission: farmer.use
